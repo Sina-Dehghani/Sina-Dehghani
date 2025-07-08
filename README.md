@@ -11,7 +11,7 @@ I engineered a Retrieval-Augmented Generation (RAG) knowledge retrieval system t
 
 My work on LLM-powered chatbots decreased manual lookup times for internal analysts by 40%.
 
-I am proficient in a wide array of technologies, including PyTorch, TensorFlow, LangChain, and Hugging Face Transformers, and have a deep understanding of both the theoretical and practical applications of AI. My experience spans natural language processing, computer vision, and the development of robust data warehouses.
+I am proficient in a wide array of technologies, including PyTorch, TensorFlow, LangChain, Hugging Face Transformers and have a deep understanding of both the theoretical and practical applications of AI. My experience spans natural language processing, computer vision, and the development of robust data warehouses.
 
 
 
