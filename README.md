@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm a storyteller for data, weaving the threads of zeros and ones into narratives that drive decisions and spark innovation. With expertise in computer vision, NLP and data science, I bridge the gap between the abstract and the actionable, turning complexity into clarity.<br><br>It isn’t just a challenge; it’s an opportunity to uncover patterns that others overlook. Its about designing systems that don’t just analyze but understand, building tools that see the world, speak its languages, and transform raw information into solutions that matter.<br><br>For me, the magic lies in going beyond the numbers, finding the human in the data. Whether decoding images pixel by pixel or uncovering insights from unstructured text, I approach every project as a puzzle waiting to be solved, with curiosity and creativity as my guides.<br><br>I’m here to turn data into decisions and ideas into impact, one innovative solution at a time.
+With a fervent passion for solving complex puzzles, I have dedicated my career to the field of Artificial Intelligence, where I design and implement intelligent systems that drive significant business impact. My journey in AI has been marked by a relentless pursuit of innovation, from developing sophisticated fraud detection systems for insurance companies to architecting clinical decision support systems that enhance patient care.
+
+My professional experience is built on a foundation of tangible results:
+
+I led the development of a prescription comparison service that slashed fraudulent insurance claims by 25%.
+
+By implementing an OCR-based drug detection system, I significantly improved the quality of datasets for analysis.
+
+I engineered a Retrieval-Augmented Generation (RAG) knowledge retrieval system that reduced inquiry resolution times by 30%.
+
+My work on LLM-powered chatbots decreased manual lookup times for internal analysts by 40%.
+
+I am proficient in a wide array of technologies, including PyTorch, TensorFlow, LangChain, and Hugging Face Transformers, and have a deep understanding of both the theoretical and practical applications of AI. My experience spans natural language processing, computer vision, and the development of robust data warehouses.
+
+
+
+As an AI specialist, I am driven by the belief that technology can be a powerful force for good. I am particularly interested in leveraging AI to create more efficient, equitable, and intelligent systems in healthcare and finance. I am always open to connecting with fellow professionals, researchers, and leaders who share this vision. Let's connect and explore how we can build the future, together.
 
 
 ## 🌐 Socials:
